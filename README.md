@@ -25,6 +25,7 @@ IoT 기반 스마트 어항 시스템으로, **원격 모니터링 및 제어가
 
 ### 🔌 Hardware
 <img width="629" height="650" alt="Image" src="https://github.com/user-attachments/assets/89adc381-692c-4f7b-91f0-575d7a3c2ccf" />
+
 * Arduino
 * Raspberry Pi
 * DS18B20 (수온 센서)
