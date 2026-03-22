@@ -8,6 +8,7 @@ IoT 기반 스마트 어항 시스템으로, **원격 모니터링 및 제어가
 **실시간 상태 확인 및 자동 제어 시스템**을 구축했습니다.
 
 ---
+"https://github.com/user-attachments/assets/9f71c8e1-7869-497a-b0d9-9f65ba6bbd5d"
 
 ## 🧑‍💻 My Role
 
