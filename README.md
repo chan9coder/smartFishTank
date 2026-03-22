@@ -9,7 +9,7 @@ IoT 기반 스마트 어항 시스템으로, **원격 모니터링 및 제어가
 
 ---
 
-<img src="{https://github.com/user-attachments/assets/9f71c8e1-7869-497a-b0d9-9f65ba6bbd5d}"  width="200" height="400"/>
+<img width="1909" height="1069" alt="Image" src="https://github.com/user-attachments/assets/9f71c8e1-7869-497a-b0d9-9f65ba6bbd5d" />
 ## 🧑‍💻 My Role
 
 * Arduino 기반 센서 데이터 처리 및 통신 구현
