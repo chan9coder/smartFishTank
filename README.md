@@ -98,6 +98,8 @@ Arduino → Raspberry Pi → Server → Mobile App
 * 서버–라즈베리파이 간 지속적 동기화 구조 설계
 
 ---
+### Video
+https://youtu.be/LjHPsyLE9ms
 
 ## 📊 Result
 
@@ -115,3 +117,4 @@ Arduino → Raspberry Pi → Server → Mobile App
 * 시스템 안정성 개선 및 문제 해결 능력
 
 ---
+
