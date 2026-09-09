@@ -1,6 +1,6 @@
 # 🐟 Smart Aquarium IoT System
 
-## 📌 Project Summary
+## 📌 Project Summary  
  
 IoT 기반 스마트 어항 시스템으로, **원격 모니터링 및 제어가 가능한 통합 플랫폼**을 구현한 프로젝트입니다.
  
